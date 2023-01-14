@@ -4,7 +4,7 @@
 
 ---
 
-*text-histogram* generates a text format histogram in Common Lisp. IT's intended to provide roughly the same functionality as https://github.com/basnijholt/text_histogram3 , a Python package for generating text histograms.
+*text-histogram* generates a histogram in plain text. The intent is to provide roughly the same functionality as https://github.com/basnijholt/text_histogram3 , a Python package for generating text histograms.
 
 # Example
 
