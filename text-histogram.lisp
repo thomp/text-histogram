@@ -103,7 +103,7 @@
 	(min_v (or minimum (apply 'min data)))
 	(max_v (or maximum (apply 'max data))))
     (declare (integer bucket-scale))
-    (assert (> max_v min_v))
+    (assert (>= max_v min_v))
     (let ((diff (- max_v min_v))
 	  (boundaries nil)
 	  (bucket-counts nil))
