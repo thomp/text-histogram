@@ -4,6 +4,9 @@
 
 ---
 
+Development is, post November 2023, at: https://codeberg.org/thomp/dxh
+
+
 *text-histogram* generates a histogram in plain text. The intent is to provide roughly the same functionality as https://github.com/basnijholt/text_histogram3 , a Python package for generating text histograms.
 
 # Example
